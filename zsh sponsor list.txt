@@ -1,0 +1,18 @@
+Git	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git
+Laravel	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/laravel
+NodeJS	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/node
+Spotify	https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/osx/spotify
+Visual Studio Code	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vscode
+PostgreSQL	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/postgres
+Ruby	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/ruby
+Scala	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/scala
+Sublime Text	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sublime
+Python	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/python
+Ruby on Rails	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/rails
+Go	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/golang
+Heroku	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/heroku
+Django	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/django
+AWS	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/aws
+Kubernetes	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/kube-ps1
+Docker	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker
+React	https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/react-native
